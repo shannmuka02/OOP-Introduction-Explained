@@ -9,7 +9,8 @@ namespace OOP_Introduction_Explained
             try
             {
                 string input;
-                string name;
+
+                string   name;
 
                 Console.Write("Type 1 if you like to talk to others and type 2 if you would rather keep to yourself: ");
                 input = Console.ReadLine();
